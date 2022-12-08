@@ -11,7 +11,7 @@ simply by increasing the number of "cores", ie. threads.
 Join the Discord for support: https://discord.gg/pQwkebKnPB
 
 ```
-For <poolkey> and <farmerkey> see output of `chinilla keys show`.
+For <poolkey> and <farmerkey> see output of `chinilla keys show`. 
 To plot for pools, specify <contract> address via -c instead of <poolkey>, see `chinilla plotnft show`.
 <tmpdir> needs about 220 GiB space, it will handle about 25% of all writes. (Examples: './', '/mnt/tmp/')
 <tmpdir2> needs about 110 GiB space and ideally is a RAM drive, it will handle about 75% of all writes.
